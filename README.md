@@ -87,15 +87,6 @@ jupyter notebook slm_from_scratch.ipynb
 | Training data | _dataset name_ |
 | Hardware / Training time | _e.g. Colab T4, 1 hr_ |
 
-## Example Output
-
-> Add a sample prompt and generated story here.
-
-```
-Prompt: "Once upon a time"
-Output: ...
-```
-
 ## Acknowledgments
 
 Built as a class project on small language models. Inspired by the GPT family of architectures and open educational resources on training language models from scratch.
