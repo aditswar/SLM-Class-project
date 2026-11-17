@@ -82,7 +82,7 @@ jupyter notebook slm_from_scratch.ipynb
 | Layers / Heads / Embedding dim | _e.g. 6 / 6 / 384_ |
 | Context length | _e.g. 256_ |
 | Vocabulary size | _e.g. 8,000_ |
-| Training data | _dataset name_ |
+| Training data | _Story_Writer_ |
 | Hardware / Training time | _e.g. Colab T4, 1 hr_ |
 
 ## Acknowledgments
