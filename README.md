@@ -75,8 +75,6 @@ jupyter notebook slm_from_scratch.ipynb
 
 ## Model Details
 
-> Fill in the values from your notebook.
-
 | Setting | Value |
 |---------|-------|
 | Architecture | Decoder-only Transformer |
