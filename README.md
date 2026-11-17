@@ -90,7 +90,3 @@ jupyter notebook slm_from_scratch.ipynb
 ## Acknowledgments
 
 Built as a class project on small language models. Inspired by the GPT family of architectures and open educational resources on training language models from scratch.
-
-## License
-
-Add a license of your choice (e.g. MIT) if you plan to share this project publicly.
