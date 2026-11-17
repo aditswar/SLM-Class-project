@@ -80,7 +80,7 @@ jupyter notebook slm_from_scratch.ipynb
 | Setting | Value |
 |---------|-------|
 | Architecture | Decoder-only Transformer |
-| Parameters | _e.g. X M_ |
+| Parameters | _e.g. 1.3 M_ |
 | Layers / Heads / Embedding dim | _e.g. 6 / 6 / 384_ |
 | Context length | _e.g. 256_ |
 | Vocabulary size | _e.g. 8,000_ |
